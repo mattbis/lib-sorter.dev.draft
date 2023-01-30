@@ -7,4 +7,4 @@
 `--pre infinite` default
 ### the result is a guesssed percentage
 `--result`
-# `-batch` allows a {} subarg or via a static manifest.. or invocation
+### `-batch` allows a {} subarg or via a static manifest.. or invocation
